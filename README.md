@@ -92,10 +92,15 @@ Now, for the month of December in Oahu, we found that minimum temperature is 56Â
 
 ![image](https://user-images.githubusercontent.com/43974872/197857492-fdf6f130-728f-4e7e-b745-aaa5175bddbb.png)
 
-# Biannual Temps
+# Biannual Summary Temps
 
-Due to the above, a summary of the temperatures between June and December was made, since they are the months that belong to the island's high season.
+Due to the above, a summary of the temperatures between June and December was made, since they are the months that belong to the island's high season. So, we needed to do some extra queries for the months of july, august, septiembre, october, november, to complete the analysis for the biannual summary temperatures for the island.
 Therefore, the findings are the following:
+
+1. The analysis tells the investor that is correct to open a Surf nÂ´Icream shop
+2. The concerns about rain and temperature were overcome thanks to the results of the analysis.
+3. The temperature during the last semester of the year, indicates that it is perfect to buy an ice cream. 
+4. And the semi-annual precipitaion, offers a good climate for the rental or purchase of surfboards.
 
 ![image](https://user-images.githubusercontent.com/43974872/197863105-1278ba5a-8fab-4e65-a59a-71acb3183f69.png)
 
