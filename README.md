@@ -73,7 +73,7 @@ def precipitation():
 
 ### Route: Statistics
 
-The next route report on the minimum, average, and maximum temperatures. In this case, during the month of june in 2017, the minimum temperature was 71° degrees; the maximun was 83° degrees and the monthly average temperatura was 77.2° degrees.
+The next route report on the minimum, average, and maximum temperatures. In this case, during the month of june in 2017, the minimum temperature was 71° degrees; the maximun was 83° degrees and the monthly average temperature was 77.2° degrees.
 
 ![image](https://user-images.githubusercontent.com/43974872/197850774-5f548eb2-4a68-4cd4-949f-6c3efd49f5a3.png)
 
@@ -81,3 +81,7 @@ The next route report on the minimum, average, and maximum temperatures. In this
 We are doing an analysis temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Summary Statistics for June
+
+Doing the analysis temperature data for the month of June in Oahu, we found that minimum temperature is 64° degrees; the maximun is 85° degrees and the monthly average temperature is 75° degrees.
+
+![image](https://user-images.githubusercontent.com/43974872/197855782-fc06acf0-8337-425a-a5c1-4e89836a255a.png)
