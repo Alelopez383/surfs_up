@@ -58,4 +58,7 @@ def precipitation():
  
  
  ![image](https://user-images.githubusercontent.com/43974872/197831761-1f4fbf6b-735d-4a98-9383-529498b52839.png)
+ 
+ ![image](https://user-images.githubusercontent.com/43974872/197834906-1f244de9-5930-4f91-93c2-44743595011c.png)
+
 
