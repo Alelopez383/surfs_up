@@ -59,14 +59,22 @@ def precipitation():
  
  ![image](https://user-images.githubusercontent.com/43974872/197831761-1f4fbf6b-735d-4a98-9383-529498b52839.png)
  
- ### Route Precipitation
+ ### Route: Precipitation
  
  ![image](https://user-images.githubusercontent.com/43974872/197834906-1f244de9-5930-4f91-93c2-44743595011c.png)
 
-### Route Stations
+### Route: Stations
 
 ![image](https://user-images.githubusercontent.com/43974872/197838173-7d216616-638e-4e0e-9919-76495d7a7c72.png)
 
-### Route Monthly Temperature
+### Route: Monthly Temperature
+
+![image](https://user-images.githubusercontent.com/43974872/197849391-9b017f4d-7580-4f41-9954-74369984b8de.png)
+
+### Route: Statistics
+
+The next route report on the minimum, average, and maximum temperatures. In this case, during the month of june in 2017, the minimum temperature was 71° degrees; the maximun was 83° degrees and the monthly average temperatura was 77.2° degrees.
+
+![image](https://user-images.githubusercontent.com/43974872/197850774-5f548eb2-4a68-4cd4-949f-6c3efd49f5a3.png)
 
 
