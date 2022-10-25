@@ -85,3 +85,9 @@ We are doing an analysis temperature data for the months of June and December in
 Doing the analysis temperature data for the month of June in Oahu, we found that minimum temperature is 64° degrees; the maximun is 85° degrees and the monthly average temperature is 75° degrees.
 
 ![image](https://user-images.githubusercontent.com/43974872/197855782-fc06acf0-8337-425a-a5c1-4e89836a255a.png)
+
+## Summary Statistics for December
+
+Now, for the month of December in Oahu, we found that minimum temperature is 56° degrees; the maximun is 83° degrees and the monthly average temperature is 71° degrees.
+
+![image](https://user-images.githubusercontent.com/43974872/197857492-fdf6f130-728f-4e7e-b745-aaa5175bddbb.png)
